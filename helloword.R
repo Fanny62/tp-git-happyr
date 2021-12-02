@@ -1,2 +1,2 @@
-print("helloword")
-print("conflit")
+rm(list=ls())
+
