@@ -1,2 +1,4 @@
-rm(list=ls())
+
+
+print("conflit")
 
